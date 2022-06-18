@@ -1,0 +1,17 @@
+{
+  "name": "mapofindia",
+  "version": "1.0.0",
+  "description": "Map of India by Saroj Kumar PAndey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "rak": "node rakshabandhan.js"
+  },
+  "author": "Saroj Kumar Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2"
+  }
+}
